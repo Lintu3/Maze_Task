@@ -36,7 +36,8 @@ Example files are in the repository.
    ```
    gcc -o Maze_task Maze_task.c
    ```
-   If there is problems with compileing the file with windows. Check this link: https://code.visualstudio.com/docs/cpp/config-mingw
+ 
+  If there are problems with compiling the file with windows. Check this link: https://code.visualstudio.com/docs/cpp/config-mingw
    for Visual Studio Code C/C++ compiler
 
 3. **Prepare Your Maze File**
