@@ -36,13 +36,15 @@ Example files are in the repository.
    ```
    gcc -o Maze_task Maze_task.c
    ```
+   If there is problems with compileing the file with windows. Check this link: https://code.visualstudio.com/docs/cpp/config-mingw
+   for Visual Studio Code C/C++ compiler
 
-2. **Prepare Your Maze File**
+3. **Prepare Your Maze File**
 
    - Create a text file (e.g., `maze.txt`) in the same directory.
    - Follow the maze format above.
 
-3. **Run the Program**
+4. **Run the Program**
 
    ```
    ./Maze_task
@@ -52,7 +54,7 @@ Example files are in the repository.
    Maze_task.exe
    ```
 
-4. **Follow the Prompts**
+5. **Follow the Prompts**
 
    - Enter the maze file name (e.g., `maze.txt`).
    - Enter the maximum number of moves (or press Enter for no limit).
