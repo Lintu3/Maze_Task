@@ -47,6 +47,7 @@ int main() {
         }
         //Remove newline character from input
         maze_file[strcspn(maze_file, "\r\n")] = 0;
+        //Exit condition
         if (strcmp(maze_file, "exit") == 0) {
             printf("Exiting program.\n");
             break;
